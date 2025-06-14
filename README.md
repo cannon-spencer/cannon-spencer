@@ -3,8 +3,6 @@
 - Computer Engineering @ University of Florida
 - Embedded Systems · GPU Computing · Real-Time Software · Robotics
 
-> "If you stand for nothing, Burr, what’ll you fall for?"
-
 ## Languages & Tools I Use
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
