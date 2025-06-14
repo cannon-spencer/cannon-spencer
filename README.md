@@ -1,11 +1,13 @@
-# 👋 Hey, I'm Cannon
+# Hey, I'm Cannon
 
-🎓 Computer Engineering @ University of Florida  
-⚙️ Embedded Systems · GPU Computing · Real-Time Software
+- Computer Engineering @ University of Florida
+- Embedded Systems · GPU Computing · Real-Time Software · Robotics
 
-### 🧠 Languages & Tools I Use
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+> "If you stand for nothing, Burr, what’ll you fall for?"
+
+## Languages & Tools I Use
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
